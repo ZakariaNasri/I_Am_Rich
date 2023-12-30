@@ -1,7 +1,6 @@
 <<<<<<< HEAD
 # I_Am_Rich
 ## Creating a basic "I Am Rich" mobile app using flutter 
-=======
 ### Getting Started
 
 This project is a starting point for a Flutter application.
